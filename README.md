@@ -3,7 +3,7 @@
 # 🖥️ PC Specification 
 - **CPU**: AMD Ryzen 7 2700 Eight-Core Processor
 - **PSU**: Corsair CX600
-- **GPU**: NVIDIA GeForce GTX 1660 Super
+- **GPU**: Gigabyte GeForce RTX 2070 8 GB WINDFORCE 2X
 - **MEMORY**: Corsair Vengeance LPX DDR4 16GB
 - **STORAGE**: Samsung SSD 970 EVO 1TB
 - **MOTHERBOARD**: MSI X470 Gaming Plus
