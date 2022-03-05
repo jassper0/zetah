@@ -1,7 +1,7 @@
 # [twitch.tv/zetah](https://twitch.tv/zetah)
 
 # 🖥️ PC Specification 
-- **CPU**: AMD Ryzen 7 2700 Eight-Core Processor
+- **CPU**: AMD Ryzen 7 5800x
 - **PSU**: Corsair CX600
 - **GPU**: Gigabyte GeForce RTX 2070 8 GB WINDFORCE 2X
 - **MEMORY**: Corsair Vengeance LPX DDR4 16GB
